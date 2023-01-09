@@ -52,6 +52,10 @@
     font-size: 18px;
 }
 
+.header-button:hover {
+    background-color: #fd7640;
+    transition: 0.7s;
+}
 
 
 .failures-container{
@@ -172,24 +176,25 @@ ul{
     font-weight: 700;
     font-size: 40px;
     line-height: 47px;
-    color: rgb(17, 0, 255);
+    color: white;
     padding: 100px;
     width: 500px;
     text-align: left;
 
 }
 
-.call-button{
+/* .call-button{
     width: 160px;
     height: 64px;
     background-color: white;
     color: #F15B22;
     border-radius: 8px;
     border: 0;
-}
+} */
 
 .call-container{
     align-items: center;
+    display: flex;
 }
 
 
@@ -287,4 +292,9 @@ ul{
     font-weight: 600;
     font-size: 20px;
     line-height: 24px;
+}
+
+.subscribe-button:hover {
+    background-color: #fdd2c0;
+    transition: 0.7s;
 }
