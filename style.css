@@ -158,7 +158,8 @@ ul{
 .call-images-container{
     width: 1140px;
     height: 300px;
-    
+    margin-left: auto;
+    margin-left: auto;
 }
 
 .call-image-back{
@@ -180,7 +181,8 @@ ul{
     padding: 100px;
     width: 500px;
     text-align: left;
-
+    margin-left: auto;
+    margin-left: auto;
 }
 
 /* .call-button{
